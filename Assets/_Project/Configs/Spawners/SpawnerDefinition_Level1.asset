@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6acf2c6f1d5c4e4586af88bab561d3d, type: 3}
+  m_Name: SpawnerDefinition_Level1
+  m_EditorClassIdentifier: GHSS.Core::GHSS.Core.Spawners.SpawnerDefinition
+  level: 1
+  icon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  color: {r: 0.55, g: 0.55, b: 0.55, a: 1}
+  prefab: {fileID: 7184217206916860090, guid: 5903e5c19ca983c46bd1dcdaf6cd85d6, type: 3}
+  spawnTable:
+  - itemLevel: 1
+    weight: 90
+  - itemLevel: 2
+    weight: 10
+  unmergeableItem: {fileID: 11400000, guid: 8e26c29f76bf0c64195d6b0725d7840a, type: 2}
+  unmergeableItemChance: 0.3

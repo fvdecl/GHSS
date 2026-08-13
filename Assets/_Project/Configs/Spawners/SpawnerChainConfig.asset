@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f00bd029b6ff2347be85bf8ab4ec6a6, type: 3}
+  m_Name: SpawnerChainConfig
+  m_EditorClassIdentifier: GHSS.Core::GHSS.Core.Spawners.SpawnerChainConfig
+  levels:
+  - {fileID: 11400000, guid: 42803cc4b2a1eda46baebcef891d8444, type: 2}
+  - {fileID: 11400000, guid: c74444623a711434fbc885b9ffd43eb7, type: 2}

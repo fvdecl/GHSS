@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a26e5b1c696424a91edf00678f4773, type: 3}
+  m_Name: ItemChainConfig
+  m_EditorClassIdentifier: GHSS.Core::GHSS.Core.Items.ItemChainConfig
+  levels:
+  - {fileID: 11400000, guid: acd6666210abdb4428cf4ba21d3140b3, type: 2}
+  - {fileID: 11400000, guid: 9a64510eb4e65814591e98810c7ade99, type: 2}
+  - {fileID: 11400000, guid: b478bfc4f1e3702488ffdecd495c30a2, type: 2}
+  - {fileID: 11400000, guid: 007aed864c7b48a4c88d5bb9890f167a, type: 2}
